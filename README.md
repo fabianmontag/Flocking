@@ -1,2 +1,2 @@
 # Flocking
-2D Flocking with QuadTree
+2D Flocking optimized with Quadtree
