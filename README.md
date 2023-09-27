@@ -2,4 +2,4 @@
 2D Flocking optimized with Quadtree
 
 # Demo
-Working demo live: fabianmontag.github.io/Flocking/
+Working demo live [here](https://fabianmontag.github.io/Flocking/).
